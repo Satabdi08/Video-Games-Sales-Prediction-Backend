@@ -1,5 +1,5 @@
 # Video-Games-Sales-Prediction-Backend
-Contains Backend API,CSV File,Pickle File of the webapp
+
 
 
 #Preview of the WEBAPP::
